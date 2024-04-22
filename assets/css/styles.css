@@ -18,8 +18,8 @@ body {
 
 .titulo-personal {
   font-size: 1.3em;
-  margin: 0;
-  transform: translate(80%, -40%);
+  margin-bottom: 20px;
+  /* transform: translate(80%, -40%); */
 }
 
 /* Estilos para el navbar */
@@ -250,4 +250,5 @@ footer {
   font-weight: 500;
   padding: 10px;
 }
+
 
